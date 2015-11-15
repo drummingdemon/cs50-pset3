@@ -7,4 +7,4 @@ See line 119-122 for my take on the dreaded 'ball-is-stuck-within-the-paddle' pr
 Should someone be interested in a more complex solution (which involves the bottom part of the screen not acting like a pit of doom) please consider updating detectCollision in such a way that it takes the various parts of the paddle into consideration.
 
 # helpers.c
-It features my implementation of Binary Search using recursive function call.
+It features my implementation of Binary Search using recursive function call and a simple Linear Search is included as well.
